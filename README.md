@@ -20,7 +20,7 @@
 - Fork and clone the project:
 
 ```
-git clone https://github.com/ReactJSResources/react-webpack-babel.git
+git clone https://github.com/jayjaybeeuk/stock-react.git
 ```
 
 - Then install the dependencies:
